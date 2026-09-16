@@ -230,8 +230,52 @@ Azure DevOps Pipeline
           ▼
    Azure / AKS Environment
           │
+
+Azure
+│
+├── Compute
+│   └── Virtual Machines
+│
+├── Networking
+│   ├── Virtual Networks
+│   ├── Subnets
+│   ├── VNet Peering
+│   ├── NSG
+│   └── Private Endpoints
+│
+├── Containers
+│   └── Azure Kubernetes Service (AKS)
+│
+├── Storage
+│   └── Azure Storage
+│
+├── Identity
+│   ├── Microsoft Entra ID
+│   └── RBAC
+│
+├── DevOps
+│   └── Azure DevOps Pipelines
+│
+├── Monitoring
+│   └── Azure Monitor
+│
+└── Infrastructure as Code
+    └── ARM Templates
           ▼
    Azure Monitor
           │
           ▼
 Monitoring & Troubleshooting
+
+🎯 Currently Exploring
+<a href="https://www.google.com/search?q=DevOps+best+practices" target="_blank"> <img src="https://img.shields.io/badge/DevOps-0078D4?style=flat-square"/> </a> <a href="https://www.google.com/search?q=Azure+Cloud+Engineering" target="_blank"> <img src="https://img.shields.io/badge/Azure%20Cloud-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/> </a> <a href="https://www.google.com/search?q=Kubernetes+AKS" target="_blank"> <img src="https://img.shields.io/badge/AKS-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/> </a> <a href="https://www.google.com/search?q=CI%2FCD+Azure+DevOps" target="_blank"> <img src="https://img.shields.io/badge/CI%2FCD-2563EB?style=flat-square"/> </a>
+
+🔗 Connect With Me
+<div align="center"> <a href="https://www.linkedin.com/in/rafeek-ahamed-devops/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/RafeekAhamed" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> </a> </div>
+
+<div align="center">
+DevOps Engineer | Azure Cloud Engineer
+
+Azure • Azure DevOps • AKS • Docker • CI/CD • IaC
+
+</div> ```
